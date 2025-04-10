@@ -58,6 +58,8 @@ conda activate ai-oversight
 
 Follow the instructions at [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation)
 
+You can also try running `pip install poetry`
+
 ### 3. Install Dependencies
 
 ```bash
